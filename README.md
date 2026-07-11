@@ -1,3 +1,4 @@
 # Quickshell-Bar
 So i have been thinking of moving frm waybar to Quickshell for a while. This is my Quickshell bar
-It is nowhere near complete and i would like to improve and build on it
+It is nowhere near complete and i would like to improve and build on it.
+The current goal is to build a command center thingy like u see in smartphones and windows laptops.
